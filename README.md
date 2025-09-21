@@ -113,7 +113,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="519" height="650" alt="image" src="https://github.com/user-attachments/assets/426bdf33-a45d-4ec9-b80f-222f9c9244f1" />
 
 ---
 
