@@ -162,7 +162,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="581" height="587" alt="image" src="https://github.com/user-attachments/assets/12118b7e-8d7e-4927-91ce-f0e4d5d0c6a6" />
 
 ---
 
