@@ -61,7 +61,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+[ind add.pdf](https://github.com/user-attachments/files/22452765/ind.add.pdf)
+
 
 ---
 
