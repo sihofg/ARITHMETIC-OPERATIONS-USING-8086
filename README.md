@@ -57,8 +57,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   56                     | 
+|  2005                   |   86                     |
+|  2006                   |   00                     |
 #### Manual Calculations
 
 <img width="789" height="849" alt="image" src="https://github.com/user-attachments/assets/473999b9-3cbf-4290-9851-31258afdf5ca" />
@@ -67,6 +76,9 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+
+![WhatsApp Image 2025-09-21 at 23 08 15_07c20e5f](https://github.com/user-attachments/assets/0e0486ad-c530-4e14-9405-feb4d6cbc470)
 
 ## 2. SUBTRACTION
 
@@ -109,8 +121,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   9C                     | 
+|  2005                   |   8A                     |
+|  2006                   |   00                     |
 #### Manual Calculations
 
 <img width="519" height="650" alt="image" src="https://github.com/user-attachments/assets/426bdf33-a45d-4ec9-b80f-222f9c9244f1" />
@@ -119,6 +140,9 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+
+![WhatsApp Image 2025-09-21 at 23 08 16_e7782c23](https://github.com/user-attachments/assets/b768a9fa-c062-407f-94a6-c7a6edf667f4)
 
 ## 3. MULTIPLICATION
 
@@ -158,7 +182,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   06                     | 
+|  2005                   |   00                     |
+|  2006                   |   00                     |
 
 #### Manual Calculations
 
@@ -167,6 +201,9 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+
+![WhatsApp Image 2025-09-21 at 23 08 16_6693a9a1](https://github.com/user-attachments/assets/8f61cdf3-96c4-4b43-86dc-281ca99d3947)
 
 ## 4. DIVISION
 
@@ -203,14 +240,26 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   02                     | 
+|  2005                   |   00                     |
+|  2006                   |   01                     |
 #### Manual Calculations
 
 <img width="501" height="601" alt="image" src="https://github.com/user-attachments/assets/52e31649-40c6-4c74-a9af-65f9248456a0" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+![WhatsApp Image 2025-09-21 at 23 08 17_c1fadf8a](https://github.com/user-attachments/assets/805b99f4-3d5c-404d-8b14-1262a3353109)
+
 
 
 
