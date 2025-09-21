@@ -207,7 +207,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="501" height="601" alt="image" src="https://github.com/user-attachments/assets/52e31649-40c6-4c74-a9af-65f9248456a0" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
